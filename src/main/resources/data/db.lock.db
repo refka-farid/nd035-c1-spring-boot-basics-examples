@@ -1,0 +1,6 @@
+#FileLock
+#Mon May 24 20:35:49 CEST 2021
+server=192.168.1.27\:60921
+hostName=192.168.1.27
+method=file
+id=1799fa966d2927d1d5eeef409df17bff8650c50cb92
